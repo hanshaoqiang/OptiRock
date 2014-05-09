@@ -334,7 +334,7 @@ def ObjFunc_s(s):
 
 def Optimize(x0):
     import scipy.optimize as so
-    list = [0, 30];
+    list = [0, 50];
     the_list=[]
     for i in range(100):
         the_list.append(list);
